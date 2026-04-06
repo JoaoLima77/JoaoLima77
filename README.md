@@ -1,4 +1,4 @@
-# João Lima 🖥️
+# João Otavio Lima 🖥️
 
 `Desenvolvedor FullStack`
 
