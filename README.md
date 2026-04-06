@@ -1,13 +1,19 @@
-João Lima 👨‍💻
+# João Lima 👨‍💻
 
-Desenvolvedor Mobile / FullStack
+`Desenvolvedor FullStack`
 
-Me chamo João, sou estudante de tecnologia e apaixonado por programação.
-Atualmente foco em desenvolvimento mobile com Kotlin e estou sempre buscando evoluir com projetos práticos.
+Me chamo João, tenho 18 anos e moro em São José dos Campos. Estou cursando Ciencia da computação na Univap.
 
-🚀 Tecnologias
+Sou um estudante da área de tecnologia, busco sempre aprender novas ferramentas e linguagens que melhor auxiliam na criação de soluções e projetos. Tambem procuro constantemente me aprimorar, seja por meio de projetos pessoais, desafios de programação ou estudos independentes, com o objetivo de construir uma base sólida como desenvolvedor.
 
+---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,python" />
+</p>
 
+---
 
+##
 
+![snake](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
