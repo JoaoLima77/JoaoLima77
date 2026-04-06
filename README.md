@@ -1,10 +1,8 @@
-# João Lima 👨‍💻
+# João Lima 🖥️
 
 `Desenvolvedor FullStack`
 
 Me chamo João, tenho 18 anos e moro em São José dos Campos. Estou cursando Ciencia da computação na Univap.
-
-Sou um estudante da área de tecnologia, busco sempre aprender novas ferramentas e linguagens que melhor auxiliam na criação de soluções e projetos. Tambem procuro constantemente me aprimorar, seja por meio de projetos pessoais, desafios de programação ou estudos independentes, com o objetivo de construir uma base sólida como desenvolvedor.
 
 ---
 
