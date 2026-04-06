@@ -16,4 +16,4 @@ Sou um estudante da área de tecnologia, busco sempre aprender novas ferramentas
 
 ##
 
-![snake](https://github.com/JoaoLima77O/JoaoLima77/blob/output/github-contribution-grid-snake-dark.svg)
+![snake](https://github.com/JoaoLima77/JoaoLima77/blob/output/github-contribution-grid-snake-dark.svg)
