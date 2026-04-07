@@ -34,13 +34,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLima77&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLima77&layout=compact&hide_border=true&title_color=0A66C2"/>
-</p>
-
----
-
 # 📫| Contato
 
   LinkedIn: www.linkedin.com/in/joãootaviodelima
