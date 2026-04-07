@@ -15,7 +15,14 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,python" />
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs" /><br/>
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br/>
+
+  <!-- Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
