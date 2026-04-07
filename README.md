@@ -21,8 +21,9 @@ Me chamo João, tenho 18 anos e moro em São José dos Campos. Estou cursando Ci
 
 # 📫| Contato
 
-LinkedIn: (seu link aqui)
-Email: otavico.lima@gmail.com
+  LinkedIn: www.linkedin.com/in/joãootaviodelima
+
+  Email: otavico.lima@gmail.com
 
 ---
 
