@@ -33,7 +33,7 @@
 ### 🛠️ | Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=unity,vscode,androidstudio,git,github,linux" />
 </p>
 
 ---
