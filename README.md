@@ -15,14 +15,34 @@
 ---
 
 <p align="center">
-  <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs" /><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&center=true&vCenter=true&width=600&lines=FullStack+Developer;Mobile+Developer;Game+Developer" />
+</p>
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br/>
+---
 
-  <!-- Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=git" />
+### 🧠 Linguagens
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs&perline=6" />
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5" />
+</p>
+
+### ⚙️ Backend & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,git&perline=5" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLima77&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLima77&layout=compact&hide_border=true&title_color=0A66C2"/>
 </p>
 
 ---
