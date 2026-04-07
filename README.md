@@ -14,22 +14,26 @@
 
 ---
 
-### 🧠 | Linguagens
+### 💻 | Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs" />
 </p>
 
-### 🌐 | Frontend
+---
+
+### 🌐 | FullStack (Web)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs" />
 </p>
 
-### ⚙️ | Backend & Ferramentas
+---
+
+### 🛠️ | Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=unity,vscode,git,github,linux" />
 </p>
 
 ---
