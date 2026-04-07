@@ -29,7 +29,7 @@
 ### ⚙️ | Backend & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=unity,nodejs,git,github,vscode" />
 </p>
 
 ---
