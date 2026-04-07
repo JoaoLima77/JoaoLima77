@@ -30,7 +30,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,nodejs,git,github,vscode" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gamemaker/gamemaker-original.svg" height="45"/>
 </p>
 
 ---
