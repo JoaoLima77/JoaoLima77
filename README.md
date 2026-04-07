@@ -29,8 +29,8 @@
 ### ⚙️ | Backend & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,nodejs,git,github,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamemaker/gamemaker-original.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=unity,cs,nodejs,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gamemaker/gamemaker-original.svg" height="45"/>
 </p>
 
 ---
