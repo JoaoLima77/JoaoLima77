@@ -1,8 +1,8 @@
 # 🖥️| João Otavio Lima
 
-`Desenvolvedor FullStack`
-`Mobile Developer`
-`Game Dev`
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&center=true&vCenter=true&width=600&lines=FullStack+Developer;Mobile+Developer;Game+Developer" />
+</p>
 
 ---
 
@@ -11,12 +11,6 @@
 🎓 Ciência da Computação (Univap)
 
    Sou um dev com foco em criar aplicações completas, atuando tanto no frontend quanto no backend, além de explorar o desenvolvimento de apps móveis e jogos.
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&center=true&vCenter=true&width=600&lines=FullStack+Developer;Mobile+Developer;Game+Developer" />
-</p>
 
 ---
 
