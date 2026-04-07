@@ -1,4 +1,4 @@
-# João Otavio Lima 🖥️
+# 🖥️| João Otavio Lima
 
 `Desenvolvedor FullStack`
 `Mobile Developer`
@@ -19,9 +19,7 @@ Me chamo João, tenho 18 anos e moro em São José dos Campos. Estou cursando Ci
 
 ---
 
-##
-
-📫 Contato
+# 📫| Contato
 
 LinkedIn: (seu link aqui)
 Email: otavico.lima@gmail.com
