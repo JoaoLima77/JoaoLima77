@@ -1,4 +1,4 @@
-# 🖥️| João Otavio Lima
+# 🖥️ | João Otavio Lima
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&width=450&lines=FullStack+Developer;Mobile+Developer;Game+Developer" />
@@ -6,27 +6,27 @@
 
 ---
 
-📍 São José dos Campos - SP
+📍 | São José dos Campos - SP
 
-🎓 Ciência da Computação (Univap)
+🎓 | Ciência da Computação (Univap)
 
    Sou um dev com foco em criar aplicações completas, atuando tanto no frontend quanto no backend, além de explorar o desenvolvimento de apps móveis e jogos.
 
 ---
 
-### 🧠 Linguagens
+### 🧠 | Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs&perline=6" />
 </p>
 
-### 🌐 Frontend
+### 🌐 | Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5" />
 </p>
 
-### ⚙️ Backend & Ferramentas
+### ⚙️ | Backend & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,git&perline=5" />
@@ -34,7 +34,7 @@
 
 ---
 
-# 📫| Contato
+# 📫 | Contato
 
   LinkedIn: www.linkedin.com/in/joãootaviodelima
 
