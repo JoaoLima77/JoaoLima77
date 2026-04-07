@@ -1,7 +1,7 @@
 # 🖥️| João Otavio Lima
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&center=true&vCenter=true&width=600&lines=FullStack+Developer;Mobile+Developer;Game+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&width=450&lines=FullStack+Developer;Mobile+Developer;Game+Developer" />
 </p>
 
 ---
