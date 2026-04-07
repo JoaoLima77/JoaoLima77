@@ -25,7 +25,7 @@
 ### 🌐 | FullStack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=unity,vscode,androidstudio,git,github,linux,firebase" />
 </p>
 
 ---
