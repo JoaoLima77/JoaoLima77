@@ -24,4 +24,6 @@ Me chamo João, tenho 18 anos e moro em São José dos Campos. Estou cursando Ci
 LinkedIn: (seu link aqui)
 Email: otavico.lima@gmail.com
 
+## 
+
 ![snake](https://github.com/JoaoLima77/JoaoLima77/blob/output/github-contribution-grid-snake-dark.svg)
