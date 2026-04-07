@@ -10,7 +10,7 @@
 
 🎓 Ciência da Computação (Univap)
 
-    Me chamo João, tenho 18 anos e moro em São José dos Campos. Estou cursando Ciencia da computação na Univap.
+   Sou um dev com foco em criar aplicações completas, atuando tanto no frontend quanto no backend, além de explorar o desenvolvimento de apps móveis e jogos.
 
 ---
 
