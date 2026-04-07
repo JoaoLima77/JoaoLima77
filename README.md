@@ -4,6 +4,11 @@
 `Mobile Developer`
 `Game Dev`
 
+---
+
+📍 São José dos Campos - SP
+🎓 Ciência da Computação (Univap)
+
 Me chamo João, tenho 18 anos e moro em São José dos Campos. Estou cursando Ciencia da computação na Univap.
 
 ---
