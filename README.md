@@ -1,7 +1,8 @@
 # João Otavio Lima 🖥️
 
 `Desenvolvedor FullStack`
-`Mobile Developer | 🎮 Game Dev`
+`Mobile Developer`
+`Game Dev`
 
 Me chamo João, tenho 18 anos e moro em São José dos Campos. Estou cursando Ciencia da computação na Univap.
 
