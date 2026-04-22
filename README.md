@@ -10,7 +10,7 @@
 
 🎓 | Ciência da Computação (Univap)
 
-   Sou um dev com foco em criar aplicações completas, atuando tanto no frontend quanto no backend, além de explorar o desenvolvimento de apps móveis e jogos.
+   Sou um dev com foco em criar e desenvolver aplicações, atuando tanto no frontend quanto no backend, além de explorar o desenvolvimento de apps móveis e jogos.
 
 ---
 
