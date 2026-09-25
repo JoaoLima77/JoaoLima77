@@ -8,7 +8,7 @@
 
 - São José dos Campos - SP
 
-- Ciência da Computação (Univap)
+- Ciência da Computação
 
  Sou um dev e estudante com foco no desenvolvimento de aplicações mobile e desktop, além da criação de jogos e exploração da área de cibersegurança.
 
