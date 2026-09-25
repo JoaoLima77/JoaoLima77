@@ -1,4 +1,4 @@
-# 🖥️ | João Otavio Lima
+# João Otavio Lima
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&width=450&lines=Mobile+Developer;Game+Developer" />
@@ -6,15 +6,15 @@
 
 ---
 
-📍 | São José dos Campos - SP
+- São José dos Campos - SP
 
-🎓 | Ciência da Computação (Univap)
+- Ciência da Computação (Univap)
 
  Sou um dev e estudante com foco no desenvolvimento de aplicações mobile e desktop, além da criação de jogos e exploração da área de cibersegurança.
 
 ---
 
-### 💻 | Linguagens
+###  Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,cpp" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ | Ferramentas
+###  Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,firebase,unity,unreal" />
@@ -30,7 +30,7 @@
 
 ---
 
-# 📫 | Contato
+# Contato
 
   LinkedIn: www.linkedin.com/in/joãootaviodelima
 
