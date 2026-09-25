@@ -10,22 +10,22 @@
 
 🎓 | Ciência da Computação (Univap)
 
-   Sou um dev com foco em criar e desenvolver aplicações, atuando tanto no frontend quanto no backend, além de explorar o desenvolvimento de apps móveis e jogos.
+ Sou um dev e estudante com foco no desenvolvimento de aplicações mobile e desktop, além da criação de jogos e exploração da área de cibersegurança.
 
 ---
 
 ### 💻 | Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,cpp" />
 </p>
 
 ---
 
-### 🌐 | FullStack
+### 🎮 | Desenvolvimento de Jogos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,gamemaker" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ### 🛠️ | Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,vscode,androidstudio,git,github,firebase" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,firebase" />
 </p>
 
 ---
