@@ -1,7 +1,7 @@
 # 🖥️ | João Otavio Lima
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&width=450&lines=FullStack+Developer;Mobile+Developer;Game+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&width=450&lines=Mobile+Developer;Game+Developer" />
 </p>
 
 ---
@@ -22,18 +22,10 @@
 
 ---
 
-### 🎮 | Desenvolvimento de Jogos
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,gamemaker" />
-</p>
-
----
-
 ### 🛠️ | Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,firebase" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,firebase,unity,unreal" />
 </p>
 
 ---
